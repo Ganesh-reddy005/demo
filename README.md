@@ -1,5 +1,5 @@
 # Demo on Git and Github
-I was just going through version control, Now I guess I have learnt and understood the basics atleast and start a new project .
+I was just going through version control system that helps developers to track changes and work in collaborative environment .I've grasped the basics of version control, enough to start a new project.
 ## Things I learnt 
 - Cloning a repo
 - Creating new fiels
